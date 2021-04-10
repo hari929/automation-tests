@@ -1,0 +1,14 @@
+{
+  "address": "address1",
+  "aliasAddress": "alias address",
+  "city": "city1",
+  "country": "United States",
+  "firstName": "firstname",
+  "lastName": "lastname",
+  "mobilePhone": "984845673",
+  "password": "password",
+  "state": "Indiana",
+  "zipCode": "54321"
+}
+
+
